@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Логи
+*.log
+
+# Окружение
+.env
+
+# IDE
+.idea/
+
+# Временные файлы
+*.bak
+*.tmp
